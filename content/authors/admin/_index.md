@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jiawei Zhang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master of Engineering in Biomedical and Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Northeastern University
+    url: https://www.neu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include digital image processing, artificial intelligence and biomedical image segmentation.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Digital Image Processing
 
 # Education to show in About widget
 education:
