@@ -21,7 +21,7 @@ feature:
     icon_pack: fab
     name: Python
   - description: 90%
-    icon: matlab
+    icon: org-gc
     icon_pack: custom
     name: Matlab
   - description: 10%
