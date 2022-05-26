@@ -20,9 +20,9 @@ feature:
     icon: python
     icon_pack: fab
     name: Python
-  - description: 100%
-    icon: chart-line
-    icon_pack: fas
+  - description: 90%
+    icon: matlab
+    icon_pack: custom
     name: Statistics
   - description: 10%
     icon: camera-retro
