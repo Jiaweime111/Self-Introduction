@@ -23,7 +23,7 @@ feature:
   - description: 90%
     icon: matlab
     icon_pack: custom
-    name: Statistics
+    name: Matlab
   - description: 10%
     icon: camera-retro
     icon_pack: fas
