@@ -20,10 +20,10 @@ feature:
     icon: python
     icon_pack: fab
     name: Python
-  - description: 90%
-    icon: org-gc
-    icon_pack: custom
-    name: Matlab
+  - description: 10%
+    icon: r-project
+    icon_pack: fab
+    name: R
   - description: 10%
     icon: camera-retro
     icon_pack: fas
