@@ -40,11 +40,11 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: weixin
+  - icon: zhihu
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar 
-    icon_pack: ai
+    link: https://www.zhihu.com/people/ke-kou-bai-shi-89
+  - icon: google 
+    icon_pack: fab
     link: https://scholar.google.com/citations?user=xYakeVoAAAAJ&hl=zh-CN
   - icon: github
     icon_pack: fab
