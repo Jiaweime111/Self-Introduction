@@ -63,7 +63,7 @@ image:
   preview_only: false
 
 ---
----
+
 title: 'A comprehensive review of image analysis methods for microorganism counting: from classical image processing to deep learning approaches'
 
 # Authors
