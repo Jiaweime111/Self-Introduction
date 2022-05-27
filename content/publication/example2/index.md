@@ -39,7 +39,7 @@ summary: Propose a dataset of SARS-CoV-2 with the corresponding Ground Truth.
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
