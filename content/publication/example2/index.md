@@ -39,7 +39,7 @@ summary: A comprehensive review of microorganism counting approaches based on di
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
