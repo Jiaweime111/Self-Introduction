@@ -25,7 +25,6 @@ experience:
   - title: Master of Engineering
     company: Northeastern University
     company_url: ''
-    company_logo: org-gc
     location: Shenyang
     date_start: '2019-09-01'
     date_end: '2022-07-15'
@@ -40,7 +39,6 @@ experience:
   - title: Bachelor of Engineering
     company: Northeastern University
     company_url: ''
-    company_logo: org-x
     location: Shenyang
     date_start: '2015-09-01'
     date_end: '2019-06-15'
