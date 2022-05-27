@@ -33,22 +33,12 @@ content:
     region: Hunnan
     postcode: '110819'
     country: China
-    country_code: US
+    country_code: CN
   
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  directions: Enter Life Building B and take the stairs to Office 523 on Floor 5
   office_hours:
     - 'Monday 09:00 to 19:00'
     - 'Friday 09:00 to 19:00'
-  appointment_url: 'https://calendly.com'
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
 
 design:
   columns: '2'
