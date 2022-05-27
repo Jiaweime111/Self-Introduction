@@ -28,19 +28,17 @@ content:
   email: jiaweime111@163.com
   phone: +86 13940370285
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
+    street: Zhihui Street
+    city: Shenyang
+    region: Hunnan
+    postcode: '110819'
+    country: China
     country_code: US
-  coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+  
   directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+    - 'Monday 09:00 to 19:00'
+    - 'Friday 09:00 to 19:00'
   appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
