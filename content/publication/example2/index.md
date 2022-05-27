@@ -1,5 +1,5 @@
 ---
-title: 'A comprehensive review of image analysis methods for microorganism counting: from classical image processing to deep learning approaches'
+title: 'A SARS-CoV-2 Microscopic Image Dataset with Ground Truth Images and Visual Features'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
