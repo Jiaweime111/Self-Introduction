@@ -30,20 +30,25 @@ experience:
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Subjects include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Python
+        * Machine Learning
+        * Deep Learning
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Bachelor of Engineering
+    company: Northeastern University
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Shenyang
+    date_start: '2015-09-01'
+    date_end: '2019-6-15'
+    description: |2-
+        Subjects include:
+        
+        * Digital image processing
+        * C++
+        * MATLAB
 
 design:
   columns: '2'
