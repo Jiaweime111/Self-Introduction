@@ -5,36 +5,36 @@ title: 'A comprehensive review of image analysis methods for microorganism count
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - Chen Li
+  - admin
   - Md Mamunur Rahaman
 
 # Author notes (optional)
 author_notes:
-  - 'First author'
-  - 'Corresponding author'
+  - 'Co-first author'
+  - 'Co-first author'
   - 'Co-author'
 
 
-date: '2021-09-29T00:00:00Z'
-doi: 'https://doi.org/10.1007/s10462-021-10082-4'
+date: '2020-10-11T00:00:00Z'
+doi: 'https://doi.org/10.1007/978-3-030-60633-6_20'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-09-27T00:00:00Z'
+publishDate: '2020-10-11T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Artificial Intelligence Review*
-publication_short: In *AIRE*
+publication: In *Pattern Recognition and Computer Vision 2020*
+publication_short: In *PRCV2020*
 
-abstract: Microorganisms such as bacteria and fungi play essential roles in many application fields, like biotechnique, medical technique and industrial domain. Microorganism counting techniques are crucial in microorganism analysis, helping biologists and related researchers quantitatively analyze the microorganisms and calculate their characteristics, such as biomass concentration and biological activity. However, traditional microorganism manual counting methods, such as plate counting method, hemocytometry and turbidimetry, are time-consuming, subjective and need complex operations, which are difficult to be applied in large-scale applications. In order to improve this situation, image analysis is applied for microorganism counting since the 1980s, which consists of digital image processing, image segmentation, image classification and suchlike. Image analysis-based microorganism counting methods are efficient comparing with traditional plate counting methods. In this article, we have studied the development of microorganism counting methods using digital image analysis. Firstly, the microorganisms are grouped as bacteria and other microorganisms. Then, the related articles are summarized based on image segmentation methods. Each part of the article is reviewed by methodologies. Moreover, commonly used image processing methods for microorganism counting are summarized and analyzed to find common technological points. More than 144 papers are outlined in this article. In conclusion, this paper provides new ideas for the future development trend of microorganism counting, and provides systematic suggestions for implementing integrated microorganism counting systems in the future. Researchers in other fields can refer to the techniques analyzed in this paper.
+abstract: SARS-CoV-2 has characteristics of wide contagion and quick propagation velocity. To analyse the visual information of it, we build a SARS-CoV-2 Microscopic Image Dataset (SC2-MID) with 48 electron microscopic images and also prepare their ground truth images. Furthermore, we extract multiple classical features and novel deep learning features to describe the visual information of SARS-CoV-2. Finally, it is proved that the visual features of the SARS-CoV-2 images which are observed under the electron microscopic can be extracted and analysed.
 # Summary. An optional shortened abstract.
-summary: A comprehensive review of microorganism counting approaches based on digital image processing and machine learning techniques.
+summary: Propose a dataset of SARS-CoV-2 with the corresponding Ground Truth.
 
 tags: []
 
