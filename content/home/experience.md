@@ -43,7 +43,7 @@ experience:
     company_logo: org-x
     location: Shenyang
     date_start: '2015-09-01'
-    date_end: '2019-6-15'
+    date_end: '2019-06-15'
     description: |2-
         Subjects include:
         
