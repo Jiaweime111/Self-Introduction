@@ -25,8 +25,8 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: jiaweime111@163.com
+  phone: +86 13940370285
   address:
     street: 450 Serra Mall
     city: Stanford
