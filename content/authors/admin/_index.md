@@ -69,4 +69,4 @@ highlight_name: true
 
 Jiawei Zhang is studying for his MEng degree at the MiaMIA Lab in Northeastern University. His research interests include digital image processing, machine learning and image segmentation. He is working on microorganism segmentation, biomedical image segmentation and object detection.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
