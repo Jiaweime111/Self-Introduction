@@ -16,6 +16,8 @@ author_notes:
   - 'First author'
   - 'Corresponding author'
   - 'Co-author'
+  - 'Co-author'
+  - 'Co-author'
 
 
 date: '2022-06-07T00:00:00Z'
