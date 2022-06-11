@@ -41,7 +41,7 @@ summary: A comprehensive review of microorganism image analyis approaches based 
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
