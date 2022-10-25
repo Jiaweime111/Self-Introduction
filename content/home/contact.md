@@ -24,7 +24,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: jiaweime111@163.com
-  phone: +86 13940370285
+  phone: +86 18774980655
   address:
     street: Zhihui Street
     city: Shenyang
