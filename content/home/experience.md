@@ -22,6 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: PhD of Engineering
+    company: National University of Defence Technology
+    company_url: ''
+    location: Changsha
+    date_start: '2022-09-01'
+    date_end: 'till now'
+    description: |2-
+        Subjects include:
+        
+        * SAR image processing
+        * SAR image generation
+        * Deep learning
+        * GAN
+       
   - title: Master of Engineering
     company: Northeastern University
     company_url: ''
@@ -32,8 +46,8 @@ experience:
         Subjects include:
         
         * Python
-        * Machine Learning
-        * Deep Learning
+        * Machine learning
+        * Deep learning
         * Image segmentation
 
   - title: Bachelor of Engineering
