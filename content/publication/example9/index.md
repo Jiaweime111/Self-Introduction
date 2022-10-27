@@ -19,11 +19,11 @@ author_notes:
 
 
 
-date: '2022-8-20T00:00:00Z'
+date: '2022-08-20T00:00:00Z'
 doi: 'https://doi.org/10.3390/app12147314'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-8-20T00:00:00Z'
+publishDate: '2022-08-20T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
