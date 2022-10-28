@@ -26,14 +26,14 @@ content:
   email: jiaweime111@163.com
   phone: +86 18774980655
   address:
-    street: Zhihui Street
-    city: Shenyang
-    region: Hunnan
-    postcode: '110819'
+    street: Sanyi Street
+    city: Changsha
+    region: Kaifu
+    postcode: '410073'
     country: China
     country_code: CN
   
-  directions: Enter Life Building B and take the stairs to Office 523 on Floor 5
+  directions: Enter Cognition and Communication Building and take the stairs to Office 222 on Floor 2
   office_hours:
     - 'Monday 09:00 to 19:00'
     - 'Friday 09:00 to 19:00'
