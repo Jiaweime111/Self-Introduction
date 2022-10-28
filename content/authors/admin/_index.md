@@ -25,9 +25,6 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Information and Communication Engineering
-      institution: National University of Defense Technology
-      year: 2025
     - course: MEng in Biomedical Engineering
       institution: Northeastern University
       year: 2022
