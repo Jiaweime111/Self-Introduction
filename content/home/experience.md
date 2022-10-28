@@ -23,19 +23,19 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: PhD of Engineering
-    company: National University of Defence Technology
+    company: National University of Defense Technology
     company_url: ''
     location: Changsha
     date_start: '2022-09-01'
-    date_end: 'till now'
+    date_end: '2025-07-15'
     description: |2-
         Subjects include:
         
-        * SAR image processing
-        * SAR image generation
-        * Deep learning
-        * GAN
-       
+        * SAR and ISAR Image Processing
+        * Artificial Intelligence
+        * Deep Learning
+        * GAN and Diffusion Model
+
   - title: Master of Engineering
     company: Northeastern University
     company_url: ''
@@ -46,9 +46,9 @@ experience:
         Subjects include:
         
         * Python
-        * Machine learning
-        * Deep learning
-        * Image segmentation
+        * Machine Learning
+        * Deep Learning
+        * Image Segmentation
 
   - title: Bachelor of Engineering
     company: Northeastern University
@@ -59,7 +59,7 @@ experience:
     description: |2-
         Subjects include:
         
-        * Digital image processing
+        * Digital Image Processing
         * C++
         * MATLAB
 
