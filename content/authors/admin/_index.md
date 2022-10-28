@@ -6,15 +6,15 @@ title: Jiawei Zhang
 superuser: true
 
 # Role/position/tagline
-role: Master of Engineering in Biomedical and Artificial Intelligence
+role: PhD of Information and Communication Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Northeastern University
-    url: https://www.neu.edu.cn/
+  - name: National University of Defense Technology
+    url: https://www.nudt.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include digital image processing, artificial intelligence and biomedical image segmentation.
+bio: My research interests include digital image processing, artificial intelligence and SAR image generation.
 
 # Interests to show in About widget
 interests:
@@ -25,6 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Information and Communication Engineering
+      institution: National University of Defense Technology
+      year: 2025
     - course: MEng in Biomedical Engineering
       institution: Northeastern University
       year: 2022
@@ -67,6 +70,6 @@ email: ''
 highlight_name: true
 ---
 
-Jiawei Zhang is studying for his MEng degree at the MiaMIA Lab in Northeastern University. His research interests include digital image processing, machine learning and image segmentation. He is working on microorganism segmentation, biomedical image segmentation and object detection.
+Jiawei Zhang is studying for his PhD degree in National University of Defense Technology. His research interests include digital image processing, machine learning and image generation. He is working on SAR image generation, GAN and diffusion model.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
