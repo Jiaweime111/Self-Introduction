@@ -70,6 +70,6 @@ email: ''
 highlight_name: true
 ---
 
-Jiawei Zhang is studying for his PhD degree in National University of Defense Technology. His research interests include digital image processing, machine learning and image generation. He is working on SAR image generation, GAN and diffusion model.
+Jiawei Zhang is pursuing his PhD degree in National University of Defense Technology. His research interests include digital image processing, machine learning and image generation. He is working on SAR image generation, GAN and diffusion model.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
