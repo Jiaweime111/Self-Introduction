@@ -33,10 +33,10 @@ content:
     country: China
     country_code: CN
   
-  directions: Enter Cognition and Communication Building and take the stairs to Office 222 on Floor 2
+  directions: Enter Iron Tower Building and take the stairs to Office 222 on Floor 2
   office_hours:
-    - 'Monday 09:00 to 19:00'
-    - 'Friday 09:00 to 19:00'
+    - 'Monday 08:30 to 18:00'
+    - 'Friday 08:00 to 18:00'
 
 design:
   columns: '2'
