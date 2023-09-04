@@ -37,7 +37,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *2023 IEEE 20th International Symposium on Biomedical Imaging*
-publication_short: In *ISBI*
+publication_short: In *ISBI2023*
 
 abstract: The total number of families who have lost their only child in China is about 1 million, and the death toll in this category is about 76,000 yearly.Therefore, people desperately need the help of in vitro fertilization (IVF) technology, and the selection of excellent sperms is the key application of IVF technology. However, there exists some difficulties to detect tiny objects such as sperms in microscopic videos, especially in large-scale high-throughput experiments. One of the primary reasons is, sperms in microscopic videos are tiny, fuzzy, and with quite random characteristics and dynamics, which are difficult to detect using the current image analysis methods. Here,  an advanced transformer-based neural network is proposed for tiny object detection (TOD-Net), and the model is evaluated on a unique high-quality labeled big dataset of sperm microscopic videos (consisting of $>$151,000 annotated objects). The results show that TOD-Net outperforms the state-of-the-art methods in the sperm detection task (83.61% AP_50), works in real-time (35.7 frames per second), and is in an excellent agreement with that reported by medical expert.
 # Summary. An optional shortened abstract.
