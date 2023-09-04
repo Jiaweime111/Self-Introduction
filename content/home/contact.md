@@ -35,8 +35,8 @@ content:
   
   directions: Enter Iron Tower Building and take the stairs to Office 222 on Floor 2
   office_hours:
-    - 'Monday 08:30 to 18:00'
-    - 'Friday 08:00 to 18:00'
+    - 'From Monday 08:30 to 18:00'
+    - 'To Friday 08:30 to 18:00'
 
 design:
   columns: '2'
